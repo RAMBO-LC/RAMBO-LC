@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @RAMBO-LC
-- 👀 I’m interested in WEB Development
-- 🌱 I’m currently learning HTML, CSS, JS, React, TSX, Tailwind CSS,AI/ML.
+- 👀 I have shifted my interested toward IoTs, Robotics, AI. 
+- 🌱 I’m know HTML, CSS, JS, React, TSX, Python, Git.
+- 
 -     I'm 18 years old. 
 
 
