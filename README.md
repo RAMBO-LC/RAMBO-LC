@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RAMBO-LC
-- 👀 I have shifted my interested toward IoTs, Robotics, AI. 
-- 🌱 I’m know HTML, CSS, JS, React, TSX, Python, Git.
+- 👀 Get into Web3 , but lets learn basic coding first
+- 🌱 I’m know HTML, CSS, JS, Python, Java, Git.
 - 
 -     I'm 18 years old. 
 
