@@ -2,7 +2,9 @@
 - 👀 Get into Web3 , but lets learn basic coding first
 - 🌱 I’m know HTML, CSS, JS, Python, Java, Git, React.
 - Next Goal is to learn AstroJS framework and solidity, compact.
+-
 - 
+- https://rambo-portfolio.vercel.app/
 - 
 -     I'm 18 years old. 
 
