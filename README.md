@@ -25,8 +25,7 @@
 | Project | What it does | Stack |
 |---------|--------------|-------|
 | [**Portfolio**](https://rambo-portfolio.vercel.app/) | Personal site with an animated tech-stack marquee | React · Vercel |
-| **Project 2** | _One line on what it does and why it matters_ | _Stack_ |
-| **Project 3** | _One line on what it does and why it matters_ | _Stack_ |
+
 
 ---
 
