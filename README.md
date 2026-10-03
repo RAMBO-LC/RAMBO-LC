@@ -20,11 +20,6 @@
 - 🌐 Going deep on **networking**: protocols, how data moves, and how it's secured
 
 <!-- TODO: replace these with your real projects, one line each, with links -->
-## 📦 Featured projects
-
-| Project | What it does | Stack |
-|---------|--------------|-------|
-| [**Portfolio**](https://rambo-portfolio.vercel.app/) | Personal site with an animated tech-stack marquee | React · Vercel |
 
 
 ---
