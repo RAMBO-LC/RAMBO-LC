@@ -22,13 +22,10 @@
 ## 🛠️ Tech Stack
 
 ### ✅ Comfortable with
-<p>
-  <img src="https://skillicons.dev/icons?i=js,py,java,cpp,git,react" alt="Comfortable with" />
-</p>
 
 ### 🚧 Learning / Exploring
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,vite,vue,nodejs,express,graphql,docker,kubernetes,vim" alt="Learning" />
+  <img src="https://skillicons.dev/icons?i=ts,vite,vue,nodejs,express,graphql,docker,kubernetes,vim, rust" alt="Learning" />
 </p>
 
 ### 🎯 Next up (Web3 + Frameworks)
