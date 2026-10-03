@@ -1,51 +1,58 @@
-<h1 align="center">👋 Hi, I'm RAMBO</h1>
+<h1 align="center">RAMBO</h1>
 
 <p align="center">
-  <b>Learning in public</b> · Web2 → Web3 · Building one small project at a time
+  <b>Developer building full-stack apps and moving into Web3.</b><br/>
+  JavaScript · TypeScript · Python · Rust · React · Node.js
 </p>
 
 <p align="center">
-  <a href="https://rambo-portfolio.vercel.app/">🌐 Portfolio</a>
+  <a href="https://rambo-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-rambo--portfolio.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 ---
 
-## 👀 About me
+## 🔨 What I'm building
 
-- 🌱 Currently learning **Astro** and smart-contract languages **Solidity** and **Compact**
-- 🔭 Getting into **Web3**, starting with solid coding fundamentals
-- 🎯 I'm here to learn, observe how things are done, and ship small things as I go
-- 📫 Reach me through my [portfolio](https://rambo-portfolio.vercel.app/)
+- 🧱 Full-stack web apps with **React**, **Node.js** and **TypeScript**
+- ⛓️ Moving into **Web3**: smart contracts with **Solidity** and **Compact**
+- 🚀 Content-driven sites with **Astro**, deployed on **Vercel**
+- 🦀 Systems-level work in **Rust**
+- 🌐 Going deep on **networking**: protocols, how data moves, and how it's secured
 
----
+<!-- TODO: replace these with your real projects, one line each, with links -->
+## 📦 Featured projects
 
-## 🛠️ Tech Stack
-
-### ✅ Comfortable with
-
-### 🚧 Learning / Exploring
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,vite,vue,nodejs,express,graphql,docker,kubernetes,vim, rust" alt="Learning" />
-</p>
-
-### 🎯 Next up (Web3 + Frameworks)
-<p>
-  <img src="https://skillicons.dev/icons?i=astro,solidity" alt="Next up" />
-</p>
+| Project | What it does | Stack |
+|---------|--------------|-------|
+| [**Portfolio**](https://rambo-portfolio.vercel.app/) | Personal site with an animated tech-stack marquee | React · Vercel |
+| **Project 2** | _One line on what it does and why it matters_ | _Stack_ |
+| **Project 3** | _One line on what it does and why it matters_ | _Stack_ |
 
 ---
 
-## 🗺️ Learning Roadmap
+## ⚙️ Stack
 
-| Area | Tools | Status |
-|------|-------|--------|
-| Languages | JavaScript, Python, Java, C++ | ✅ Know |
-| Frontend | React, Vite, Vue, Astro | 🚧 React known · others in progress |
-| Typing | TypeScript | 🚧 In progress |
-| Backend | Node.js, Express, GraphQL | 🚧 In progress |
-| DevOps | Git, Docker, Kubernetes | 🚧 Git known · others in progress |
-| Editor | Vim | 🚧 Practicing |
-| Web3 | Solidity, Compact | 🎯 Next goal |
+**Core**
+
+<img src="https://skillicons.dev/icons?i=js,ts,py,rust,cpp" alt="Core stack" />
+
+**Workflow & deploy**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,figma,discord" alt="Workflow and deploy" />
+
+**Data & infrastructure**
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,kubernetes,aws,graphql" alt="Data and infrastructure" />
+
+**Frameworks & tooling**
+
+<img src="https://skillicons.dev/icons?i=react,astro,vue,vite,nodejs,express,tailwind" alt="Frameworks and tooling" />
+
+**Web3**
+
+<img src="https://skillicons.dev/icons?i=solidity" alt="Web3" />
+
+**Environment:** macOS · Linux · Windows &nbsp;|&nbsp; **Editors:** Zed · Vim
 
 ---
 
@@ -58,4 +65,7 @@
 
 ---
 
-<p align="center"><i>"Learn it, build it, break it, fix it."</i></p>
+<p align="center">
+  <a href="https://rambo-portfolio.vercel.app/">Portfolio</a> ·
+  <a href="https://github.com/RAMBO-LC">GitHub</a>
+</p>
