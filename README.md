@@ -45,7 +45,7 @@
 
 <img src="https://skillicons.dev/icons?i=solidity" alt="Web3" />
 
-**Environment:** macOS · Linux · Windows &nbsp;|&nbsp; **Editors:** Zed · Vim
+**Environment:** macOS · Linux · Windows &nbsp;|&nbsp; **Editors:** Antigravity · Zed · Vim · 
 
 ---
 
