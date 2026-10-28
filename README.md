@@ -1,4 +1,4 @@
-<h1 align="center">RAMBO</h1>
+1<h1 align="center">RAMBO</h1>
 
 <p align="center">
   <b>Developer building full-stack apps and moving into Web3.</b><br/>
@@ -14,7 +14,6 @@
 ## 🔨 What I'm building
 
 - 🧱 Full-stack web apps with **React**, **Node.js** and **TypeScript**
-- ⛓️ Moving into **Web3**: smart contracts with **Solidity** and **Compact**
 - 🚀 Content-driven sites with **Astro**, deployed on **Vercel**
 - 🦀 Systems-level work in **Rust**
 - 🌐 Going deep on **networking**: protocols, how data moves, and how it's secured
