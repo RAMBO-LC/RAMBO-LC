@@ -51,9 +51,4 @@
 ---
 </p>
 
----
-
-<p align="center">
-  <a href="https://rambo-portfolio.vercel.app/">Portfolio</a> ·
-  <a href="https://github.com/RAMBO-LC">GitHub</a>
-</p>
+<hr>
