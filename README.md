@@ -1,8 +1,9 @@
-1<h1 align="center">RAMBO</h1>
+
+<h1 align="center">RAMBO</h1>
 
 <p align="center">
   <b>Developer building full-stack apps and moving into Web3.</b><br/>
-  JavaScript · TypeScript · Python · Rust · React · Node.js
+  JavaScript · TypeScript · Python · React · Node.js
 </p>
 
 <p align="center">
@@ -15,11 +16,9 @@
 
 - 🧱 Full-stack web apps with **React**, **Node.js** and **TypeScript**
 - 🚀 Content-driven sites with **Astro**, deployed on **Vercel**
-- 🦀 Systems-level work in **Rust**
 - 🌐 Going deep on **networking**: protocols, how data moves, and how it's secured
 
 <!-- TODO: replace these with your real projects, one line each, with links -->
-
 
 ---
 
@@ -27,7 +26,7 @@
 
 **Core**
 
-<img src="https://skillicons.dev/icons?i=js,ts,py,rust,cpp" alt="Core stack" />
+<img src="https://skillicons.dev/icons?i=js,ts,py,cpp" alt="Core stack" />
 
 **Workflow & deploy**
 
@@ -35,7 +34,7 @@
 
 **Data & infrastructure**
 
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,kubernetes,aws,graphql" alt="Data and infrastructure" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,kubernetes,aws,railway" alt="Data and infrastructure" />
 
 **Frameworks & tooling**
 
@@ -45,10 +44,11 @@
 
 <img src="https://skillicons.dev/icons?i=solidity" alt="Web3" />
 
+**Learning & Inspiration**
+
+<img src="https://skillicons.dev/icons?i=rust" alt="Learning and inspiration" />
+
 **Environment:** macOS · Linux · Windows &nbsp;|&nbsp; **Editors:** Antigravity · Cursor · Zed  
-**Ai agents:** Opencode · Hermes Agents 
+**AI agents:** OpenCode · Hermes Agents
 
 ---
-</p>
-
-<hr>
